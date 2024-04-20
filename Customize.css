@@ -1,0 +1,44 @@
+@font-face {
+  font-family: pusab;
+  src: url(pusab.ttf);
+}
+
+@font-face {
+  font-family: mc5;
+  src: url(mc5.ttf);
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+pusab{
+    font-family: pusab;
+    font-style:normal;
+    font-size: xxx-large;
+    -webkit-text-stroke: 3px black;
+    color: white;
+    text-shadow: 6px black;
+}
+
+pusab_mini{
+  font-family: pusab;
+  font-style:normal;
+  font-size: x-large;
+}
+
+p{
+    font-family:'Segoe UI';
+}
+
+mc5{
+  font-family: mc5;
+  font-style:normal;
+  font-size: x-large;
+  color: white;
+}
